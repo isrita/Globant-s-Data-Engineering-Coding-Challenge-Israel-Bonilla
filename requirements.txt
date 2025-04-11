@@ -4,3 +4,4 @@ sqlalchemy==1.4.32
 psycopg2_binary==2.9.10
 pydantic==1.10.7
 databases==0.6.0
+python-multipart
